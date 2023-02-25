@@ -1,0 +1,19 @@
+body {
+	background-color: #FFFFFF;
+	font-family: Baskerville;
+	font-size: 120%;
+}
+
+a:link {
+	font-size: 100%;
+	font-family: Baskerville;
+	color: #1fa055;
+	text-decoration: underline;
+}
+a:visited {
+	color: #000000;
+}
+a:hover {
+	color: #1fa055;
+	text-decoration: none;
+}
